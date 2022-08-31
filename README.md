@@ -1,0 +1,2 @@
+# nyricks
+Nyeste skoleprojekt
